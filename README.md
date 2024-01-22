@@ -22,60 +22,71 @@ Revisable is the world's smartest study app, designed specifically for medical a
 
 **Screenshots:**
 <div style="display: flex;">
-  <img src="Revisable/1.png" alt="Revisable App Screenshot 1" style="width: 25%; padding: 2px;">
-  <img src="Revisable/2.png" alt="Revisable App Screenshot 2" style="width: 25%; padding: 2px;">
-  <img src="Revisable/3.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
+  <img src="Revisable/1.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="Revisable/2.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="Revisable/3.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
 </div>
 <div style="display: flex;">
-  <img src="Revisable/4.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
-  <img src="Revisable/5.png" alt="Revisable App Screenshot 1" style="width: 25%; padding: 2px;">
-  <img src="Revisable/6.png" alt="Revisable App Screenshot 2" style="width: 25%; padding: 2px;">
+  <img src="Revisable/4.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+  <img src="Revisable/5.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="Revisable/6.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
 </div>
 <div style="display: flex;">
-  <img src="Revisable/7.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
-  <img src="Revisable/8.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
-  <img src="Revisable/9.png" alt="Revisable App Screenshot 1" style="width: 25%; padding: 2px;">
+  <img src="Revisable/7.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+  <img src="Revisable/8.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+  <img src="Revisable/9.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
 </div>
 <div style="display: flex;">
-  <img src="Revisable/10.png" alt="Revisable App Screenshot 2" style="width: 25%; padding: 2px;">
-  <img src="Revisable/11.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
-  <img src="Revisable/12.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
+  <img src="Revisable/10.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="Revisable/11.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+  <img src="Revisable/12.png" alt="Revisable App Screenshot 3" style="width: 3%; padding: 2px;">
 </div>
 <div style="display: flex;">
-  <img src="Revisable/13.png" alt="Revisable App Screenshot 1" style="width: 25%; padding: 2px;">
-  <img src="Revisable/14.png" alt="Revisable App Screenshot 2" style="width: 25%; padding: 2px;">
-  <img src="Revisable/15.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
+  <img src="Revisable/13.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="Revisable/14.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="Revisable/15.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
 </div>
 <div style="display: flex;">
-  <img src="Revisable/16.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
-  <img src="Revisable/17.png" alt="Revisable App Screenshot 1" style="width: 25%; padding: 2px;">
-  <img src="Revisable/18.png" alt="Revisable App Screenshot 2" style="width: 25%; padding: 2px;">
+  <img src="Revisable/16.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+  <img src="Revisable/17.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="Revisable/18.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
 </div>
 
 <div style="display: flex;">
-  <img src="Revisable/19.png" alt="Revisable App Screenshot 3" style="width: 25%; padding: 2px;">
+  <img src="Revisable/19.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
 </div>
 
 
 ---
 
-## 2) Doubt Clear AI
+### Doubt Clear AI
+**[Doubt Clear AI](https://www.doubtclear.ai/)**
 
 **Introduction:** 
-- [Brief description of Doubt Clear AI]
+Doubt Clear AI acts as your personal AI tutor, available 24/7 to assist with homework and exam preparation across various subjects.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- Wide Subject Coverage: Support for Maths, Physics, Chemistry, History, Geography, Languages, and more.
+- Scan & Learn: Instant solutions through AI-driven scanning of questions and textbooks.
+- Multilingual: Breaks language barriers for a user-friendly experience.
+- Expert AI Knowledge: Accurate and insightful subject explanations.
+- Grades Improvement: Comprehensive support for excelling in exams and assignments.
 
 **Screenshots:**
-![Doubt Clear AI Screenshot 1](doubtclearai/1.png)
-![Doubt Clear AI Screenshot 2](doubtclearai/2.png)
-...
-![Doubt Clear AI Screenshot 8](doubtclearai/8.png)
-
+<div style="display: flex;">
+  <img src="doubtclearai/1.png" alt="DoubtClear AI App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="doubtclearai/2.png" alt="DoubtClear AI Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="doubtclearai/3.png" alt="DoubtClear AI Screenshot 3" style="width: 33%; padding: 2px;">
+</div>
+<div style="display: flex;">
+  <img src="doubtclearai/4.png" alt="DoubtClear AI App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="doubtclearai/5.png" alt="DoubtClear AI App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="doubtclearai/6.png" alt="DoubtClear AI App Screenshot 3" style="width: 33%; padding: 2px;">
+</div>
+<div style="display: flex;">
+  <img src="doubtclearai/7.png" alt="DoubtClear AI App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="doubtclearai/8.png" alt="DoubtClear AI App Screenshot 2" style="width: 33%; padding: 2px;">
+</div>
 ---
 
 ## 3) ScriptBae
