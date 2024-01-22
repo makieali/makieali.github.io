@@ -91,22 +91,37 @@ Doubt Clear AI acts as your personal AI tutor, available 24/7 to assist with hom
 
 ---
 
-## 3) ScriptBae
+### ScriptBae
+**[ScriptBae](www.visionarchitech.com)**
 
 **Introduction:** 
-- [Brief description of ScriptBae]
+ScriptBae is an AI-driven scriptwriting assistant, transforming creative ideas into compelling scripts across multiple genres.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- Versatile Scriptwriting Categories: From Film & TV to Educational content.
+- Intuitive User Interface: Easy navigation and genre selection.
+- AI-Powered Guidance: Suggestions for plot, dialogues, and character development.
+- Creative Freedom: Supports a vast array of genres, including historical, sci-fi, and fantasy.
+- Collaborative Scriptwriting: Share and co-write with feedback integration.
+- Time-Efficient: Accelerates script outlines and draft generation.
 
 **Screenshots:**
-![ScriptBae Screenshot 1](scriptbae/1.png)
-![ScriptBae Screenshot 2](scriptbae/2.png)
-...
-![ScriptBae Screenshot 9](scriptbae/9.png)
+
+<div style="display: flex;">
+  <img src="scriptbae/1.png" alt="ScriptBae App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/2.png" alt="ScriptBae App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/3.png" alt="ScriptBae App Screenshot 3" style="width: 33%; padding: 2px;">
+</div>
+<div style="display: flex;">
+  <img src="scriptbae/4.png" alt="ScriptBae App Screenshot 4" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/5.png" alt="ScriptBae App Screenshot 5" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/6.png" alt="ScriptBae App Screenshot 6" style="width: 33%; padding: 2px;">
+</div>
+<div style="display: flex;">
+  <img src="scriptbae/7.png" alt="ScriptBae App Screenshot 7" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/8.png" alt="ScriptBae App Screenshot 8" style="width: 33%; padding: 2px;">
+  <img src="scriptbae/9.png" alt="ScriptBae App Screenshot 9" style="width: 33%; padding: 2px;">
+</div>
 
 ---
 
