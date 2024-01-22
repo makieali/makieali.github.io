@@ -18,9 +18,10 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![Revisable App Screenshot 1](link-to-screenshot-1.jpg)
-![Revisable App Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![Revisable App Screenshot 1](revisable/1.png)
+![Revisable App Screenshot 2](revisable/2.png)
+... 
+![Revisable App Screenshot 19](revisable/19.png)
 
 ---
 
@@ -36,9 +37,10 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![Doubt Clear AI Screenshot 1](link-to-screenshot-1.jpg)
-![Doubt Clear AI Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![Doubt Clear AI Screenshot 1](doubtclearai/1.png)
+![Doubt Clear AI Screenshot 2](doubtclearai/2.png)
+...
+![Doubt Clear AI Screenshot 8](doubtclearai/8.png)
 
 ---
 
@@ -54,16 +56,17 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![ScriptBae Screenshot 1](link-to-screenshot-1.jpg)
-![ScriptBae Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![ScriptBae Screenshot 1](scriptbae/1.png)
+![ScriptBae Screenshot 2](scriptbae/2.png)
+...
+![ScriptBae Screenshot 9](scriptbae/9.png)
 
 ---
 
-## 4) PizzaGPT
+## 4) RemoteTal
 
 **Introduction:** 
-- [Brief description of PizzaGPT]
+- [Brief description of RemoteTal]
 
 **Features:**
 - Feature 1
@@ -72,9 +75,8 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![PizzaGPT Screenshot 1](link-to-screenshot-1.jpg)
-![PizzaGPT Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![RemoteTal Screenshot 1](remotetal/1.png)
+![RemoteTal Screenshot 2](remotetal/2.png)
 
 ---
 
@@ -90,13 +92,29 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![Code AI Screenshot 1](link-to-screenshot-1.jpg)
-![Code AI Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![Code AI Screenshot 1](codeai/1.png)
+![Code AI Screenshot 2](codeai/2.png)
 
 ---
 
-## 6) SpeechAI
+## 6) PizzaGPT
+
+**Introduction:** 
+- [Brief description of PizzaGPT]
+
+**Features:**
+- Feature 1
+- Feature 2
+- Feature 3
+- ...
+
+**Screenshots:**
+![PizzaGPT Screenshot 1](pizzagpt/1.png)
+![PizzaGPT Screenshot 2](pizzagpt/2.png)
+
+---
+
+## 7) SpeechAI
 
 **Introduction:** 
 - [Brief description of SpeechAI]
@@ -108,9 +126,7 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![SpeechAI Screenshot 1](link-to-screenshot-1.jpg)
-![SpeechAI Screenshot 2](link-to-screenshot-2.jpg)
-... [Add up to 10 screenshots] ...
+![SpeechAI Screenshot 1](speechai/1.png)
+![SpeechAI Screenshot 2](speechai/2.png)
 
 ---
-
