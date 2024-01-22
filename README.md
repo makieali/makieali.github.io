@@ -144,33 +144,34 @@ RemoteTal is a global talent acquisition platform connecting companies with skil
 
 ---
 
-## 5) Code AI
+**[CodeAI](www.itechgemini.com)**
 
 **Introduction:** 
-- [Brief description of Code AI]
+CodeAI is your AI-powered programming companion, streamlining your coding experience with intuitive AI assistance.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- AI-Driven Coding Assistance: Instant answers to programming queries.
+- Code Generation: Automatic generation of efficient code from plain English descriptions.
+- Integrated Debugging Tools: Simplify the debugging process for smoother development.
+- Educational Resources: Extensive library covering programming concepts and patterns.
+- Developer Adaptability: Suitable for both beginners and seasoned coders.
 
 **Screenshots:**
-![Code AI Screenshot 1](codeai/1.png)
-![Code AI Screenshot 2](codeai/2.png)
+![Code AI Screenshot 1](codeAI/1.png)
+![Code AI Screenshot 2](codeAI/2.png)
 
 ---
 
-## 6) PizzaGPT
+### PizzaGPT
+**[PizzaGPT](www.itechgemini.com)**
 
 **Introduction:** 
-- [Brief description of PizzaGPT]
+PizzaGPT is an AI-powered chatbot, providing personalized assistance and recommendations across various needs like shopping, entertainment, and travel.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- Personalized Responses: AI-driven recommendations and assistance.
+- Versatile Assistance: Covers a wide range of needs, including shopping and travel.
+- Free and Accessible: Available anytime and anywhere.
 
 **Screenshots:**
 ![PizzaGPT Screenshot 1](pizzagpt/1.png)
@@ -178,19 +179,21 @@ RemoteTal is a global talent acquisition platform connecting companies with skil
 
 ---
 
-## 7) SpeechAI
+### Speech AI
+**[Speech AI](www.itechgemini.com)**
 
 **Introduction:** 
-- [Brief description of SpeechAI]
+Speech AI is your go-to AI companion for knowledge discovery, language learning, and speech assistance, making communication seamless in any language.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- Ask Anything: AI-powered answers to a wide range of queries.
+- Speech Assistance: Guidance and suggestions for speechwriting and presentations.
+- Multilingual Capabilities: Breaks down language barriers with ease.
+- Knowledge Search: Instant information access through AI search capabilities.
+- Chatbot Companionship: Friendly AI conversations available anytime.
 
 **Screenshots:**
-![SpeechAI Screenshot 1](speechai/1.png)
-![SpeechAI Screenshot 2](speechai/2.png)
+![SpeechAI Screenshot 1](speechAI/1.png)
+![SpeechAI Screenshot 2](speechAI/2.png)
 
 ---
