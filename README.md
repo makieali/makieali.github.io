@@ -6,16 +6,19 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 
 ---
 
-## 1) Revisable App
+### Revisable App
+**[Revisable](https://www.revisable.in/)**
 
 **Introduction:** 
-- [Brief description of Revisable App]
+Revisable is the world's smartest study app, designed specifically for medical and finance students. It leverages AI tools to offer a comprehensive learning experience, from creating study materials to solving question papers.
 
 **Features:**
-- Feature 1
-- Feature 2
-- Feature 3
-- ...
+- AI-Powered Study Tools: Generate study material, solve papers, and create tests and MCQs.
+- Smart Flashcards: Customizable flashcards for efficient learning.
+- Test Series and Revision Videos: Comprehensive resources for exam preparation.
+- ChatGPT Integration: Enhanced learning with advanced AI capabilities.
+- Targeted Courses: Specially designed for MBBS, NEET, USMLE, PLAB, CA, CFA, and more.
+- Monthly Course Updates: Continual expansion and updating of course material.
 
 **Screenshots:**
 <div style="display: flex;">
