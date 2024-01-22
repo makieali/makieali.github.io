@@ -18,10 +18,10 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![Revisable App Screenshot 1](revisable/1.png)
-![Revisable App Screenshot 2](revisable/2.png)
+![Revisable App Screenshot 1](Revisable/1.png)
+![Revisable App Screenshot 2](Revisable/2.png)
 ... 
-![Revisable App Screenshot 19](revisable/19.png)
+![Revisable App Screenshot 19](Revisable/19.png)
 
 ---
 
