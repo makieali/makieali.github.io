@@ -73,6 +73,7 @@ Doubt Clear AI acts as your personal AI tutor, available 24/7 to assist with hom
 - Grades Improvement: Comprehensive support for excelling in exams and assignments.
 
 **Screenshots:**
+
 <div style="display: flex;">
   <img src="doubtclearai/1.png" alt="DoubtClear AI App Screenshot 1" style="width: 33%; padding: 2px;">
   <img src="doubtclearai/2.png" alt="DoubtClear AI Screenshot 2" style="width: 33%; padding: 2px;">
@@ -87,6 +88,7 @@ Doubt Clear AI acts as your personal AI tutor, available 24/7 to assist with hom
   <img src="doubtclearai/7.png" alt="DoubtClear AI App Screenshot 1" style="width: 33%; padding: 2px;">
   <img src="doubtclearai/8.png" alt="DoubtClear AI App Screenshot 2" style="width: 33%; padding: 2px;">
 </div>
+
 ---
 
 ## 3) ScriptBae
