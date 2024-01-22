@@ -39,7 +39,7 @@ Revisable is the world's smartest study app, designed specifically for medical a
 <div style="display: flex;">
   <img src="Revisable/10.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
   <img src="Revisable/11.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
-  <img src="Revisable/12.png" alt="Revisable App Screenshot 3" style="width: 3%; padding: 2px;">
+  <img src="Revisable/12.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
 </div>
 <div style="display: flex;">
   <img src="Revisable/13.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
