@@ -18,7 +18,12 @@ Welcome to my portfolio of innovative mobile applications, where I combine my ex
 - ...
 
 **Screenshots:**
-![Revisable App Screenshot 1](Revisable/1.png)
+<div style="display: flex;">
+  <img src="revisable/1.png" alt="Revisable App Screenshot 1" style="width: 33%; padding: 2px;">
+  <img src="revisable/2.png" alt="Revisable App Screenshot 2" style="width: 33%; padding: 2px;">
+  <img src="revisable/3.png" alt="Revisable App Screenshot 3" style="width: 33%; padding: 2px;">
+</div>
+![Revisable App Screenshot 1](Revisable/1.png) 
 ![Revisable App Screenshot 2](Revisable/2.png)
 ... 
 ![Revisable App Screenshot 19](Revisable/19.png)
