@@ -139,8 +139,8 @@ RemoteTal is a global talent acquisition platform connecting companies with skil
 - ASO Optimization: Maximizes visibility in app stores.
 
 **Screenshots:**
-![RemoteTal Screenshot 1](remotetal/1.png)
-![RemoteTal Screenshot 2](remotetal/2.png)
+![RemoteTal Screenshot 1](remoteTal/1.png)
+![RemoteTal Screenshot 2](remoteTal/2.png)
 
 ---
 
